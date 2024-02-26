@@ -174,7 +174,7 @@ public class Game extends AppCompatActivity {
             }
         }
 
-    }//
+    }////
 
     void blueBar() {
         Window window = getWindow();
